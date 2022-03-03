@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include<iostream>
+using namespace std;
+int main()
+{
+    int myAge=15;
+    int myWeight=50;
+    int myHeight=165;
+int mySisters=1;
+     int myBrothers=0;
+
+    cout << "i am " << myAge <<" years old. " ;
+    cout << "i am " << myWeight <<" kg. " ;
+    cout << "i am " << myHeight <<" cm. " ;
+    cout << "i am " << mySisters  ;
+    cout << "i am " << myBrothers ;
+    return 0;
+}
